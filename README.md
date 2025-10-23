@@ -58,7 +58,7 @@
 ### 1. کلون کردن یا دانلود پروژه
 
 ```bash
-cd salona_test
+cd Salona_instagram_bot_task
 ```
 
 ### 2. ساخت محیط مجازی (Virtual Environment)
